@@ -12,11 +12,11 @@
     gap: 16px;
 }
 .productdisplay-img-list img{
-    height: 140px;
+    height: 125px;
 }
 .productdisplay-main-img{
     width: 480px;
-    height: 608px;
+    height: 550px;
 }
 .productdisplay-right{
     margin: 0px 50px;
@@ -81,4 +81,10 @@
     border: none;
     outline: none;
     cursor: pointer;
+}
+.productdisplay-right-category{
+    margin-top: 6px;
+}
+.productdisplay-right-category span{
+    font-weight: 500;
 }
